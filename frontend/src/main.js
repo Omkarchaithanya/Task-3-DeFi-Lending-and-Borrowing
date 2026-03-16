@@ -23,7 +23,6 @@ function renderShell() {
       <section class="hero">
         <div>
           <p class="eyebrow">Task 3</p>
-            <p class="eyebrow">DeFi Lending App</p>
           <p class="subtitle">Deposit mock USD, borrow against collateral, and watch utilization drive the live interest rates.</p>
         </div>
         <button id="connectButton" class="primary">Connect Wallet</button>
