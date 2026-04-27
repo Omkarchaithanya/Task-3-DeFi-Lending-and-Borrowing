@@ -1,5 +1,16 @@
 # DeFi Lending and Borrowing DApp
+## Internship Details
 
+| Field | Details |
+|-------|---------|
+| **Company** | CODTECH IT SOLUTIONS PVT.LTD |
+| **Name** | OMKAR CHAITHANYA R |
+| **Intern ID** | CTIS4640 |
+| **Domain** | Blockchain Technology |
+| **Batch Duration** | 12 Weeks |
+| **Mentor** | Neela Santhosh Kumar |
+
+---
 This project contains:
 
 - A Hardhat smart-contract project for a utilization-based DeFi lending pool.
